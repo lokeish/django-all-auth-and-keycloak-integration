@@ -100,7 +100,7 @@ While creating client speicify the Valid redirect URIs as
 
 ```http://<django_service_ip>:<port_no>/accounts/keycloak/login/callback/```
 
-from this save the client id and secret key(If you dont know how to create a client kindly the refer the official doc of keycloak).
+from this save the client id and secret key(If you dont know how to create a client, kindly the refer the official doc of keycloak).
 
 ### step - 7
 
